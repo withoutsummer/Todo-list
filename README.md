@@ -1,4 +1,6 @@
-# React + Vite
+# Todo-list
+
+한 입 크기로 잘라 먹는 리액트\_프로젝트2. 투두리스트
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
